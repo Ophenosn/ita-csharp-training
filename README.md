@@ -1,6 +1,6 @@
 # ITA C# Training
 
-## Tic Tac Toe C# Exercises for ITA staff
+C# Exercises for ITA staff
 
 - Fizz Buzz: Basic structure and tests
   - Test Conditions:
